@@ -8,7 +8,7 @@ public class Connect {
 		Connection con = null;
 		try {
 			Class.forName("com.mysql.jdbc.Driver");
-			con = DriverManager.getConnection("jdbc:mysql://localhost/tutorial_java_basic?useUnicode=yes&characterEncoding=UTF-8","root","abc456");
+			con = DriverManager.getConnection("jdbc:mysql://localhost/tutorial_java_basic?useUnicode=yes&characterEncoding=UTF-8","root","");
 			//JOptionPane.showMessageDialog(null, "Connected");
 			return con;
 		} catch (Exception ex) {
