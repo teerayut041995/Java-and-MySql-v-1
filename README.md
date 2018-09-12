@@ -13,6 +13,7 @@
 
 แสดงข้อมูลตามประเภทสินค้าโดยใช้ ComboBox
 
+-------------------------------------------------------------------------------
 วิธี import project ใน eclipse
 
 1. เปิด Eclipse.
@@ -20,5 +21,12 @@
 3. เลือก General แล้วเลือก select Existing Projects into Workspace, แล้วคลิก Next.
 4. เลือก Select root directory แล้วคลิก Browse แล้วไปเลือกโฟลเดอร์ที่จะ import เข้ามา 
 5. คลิก Finish.
-
 https://www.youtube.com/watch?v=IIjDgeXRw7k
+------------------------------------------------------------------------------
+
+import jcalender
+https://www.youtube.com/watch?v=ty30l7kBydk
+
+-------------------------------------------------------------------------------
+สร้างฐานข้อมูลชื่อ tutorial_java_basic แล้ว import ฐานข้อมูล
+
