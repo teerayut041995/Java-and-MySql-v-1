@@ -21,11 +21,14 @@
 3. เลือก General แล้วเลือก select Existing Projects into Workspace, แล้วคลิก Next.
 4. เลือก Select root directory แล้วคลิก Browse แล้วไปเลือกโฟลเดอร์ที่จะ import เข้ามา 
 5. คลิก Finish.
+
 https://www.youtube.com/watch?v=IIjDgeXRw7k
 ------------------------------------------------------------------------------
 
 import jcalender
+
 https://www.youtube.com/watch?v=ty30l7kBydk
+import เข้ามาแล้วให้ปิด eclipse แล้วเปิดขึ้นมาหม่
 
 -------------------------------------------------------------------------------
 สร้างฐานข้อมูลชื่อ tutorial_java_basic แล้ว import ฐานข้อมูล
